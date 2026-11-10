@@ -1,4 +1,4 @@
-# 🌊 Rising Waters – AI-Based Flood Prediction System
+# 🌊 FloodSenseAI – AI-Based Flood Prediction System
 
 ## 📌 Project Overview
 
